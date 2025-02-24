@@ -4,7 +4,7 @@
   "description": "Human Anatomy WebGL module",
   "main": "index.js",
   "scripts": {
-    "start":"node server.js",
+    "start": "nodemon server.js",
     "test": "test"
   },
   "keywords": [
@@ -16,6 +16,7 @@
   "author": "Qvolv",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.0"
+    "express": "^4.21.0",
+    "nodemon": "^3.1.9"
   }
 }
