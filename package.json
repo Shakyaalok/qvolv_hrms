@@ -4,7 +4,7 @@
   "description": "Human Anatomy WebGL module",
   "main": "index.js",
   "scripts": {
-    "start":"server.js",
+    "start":"node server.js",
     "test": "test"
   },
   "keywords": [
