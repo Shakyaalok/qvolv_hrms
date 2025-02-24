@@ -1,0 +1,21 @@
+{
+  "name": "anatomy",
+  "version": "1.0.0",
+  "description": "Human Anatomy WebGL module",
+  "main": "index.js",
+  "scripts": {
+    "start":"server.js",
+    "test": "test"
+  },
+  "keywords": [
+    "anatomy",
+    "Human",
+    "Anatomy",
+    "HumanAnatomy"
+  ],
+  "author": "Qvolv",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
